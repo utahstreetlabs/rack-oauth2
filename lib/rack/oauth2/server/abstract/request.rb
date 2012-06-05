@@ -1,3 +1,6 @@
+require 'attr_required'
+require 'attr_optional'
+
 module Rack
   module OAuth2
     module Server
